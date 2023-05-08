@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-trop",
+  "version": "1.0.0",
+  "description": "Test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Felipe Trop",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "geoip-lite": "^1.4.7",
+    "moment-timezone": "^0.5.43",
+    "node-fetch": "^3.3.1",
+    "pg": "^8.10.0",
+    "request": "^2.88.2"
+  }
+}
